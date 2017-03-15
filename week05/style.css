@@ -1,0 +1,22 @@
+body {
+    font-family: avenir;
+}
+
+h1{
+    text-align: center;
+    color:forestgreen;
+}
+
+
+h2, h3, h4 {
+    color:navy;
+}
+
+
+img {
+    border: 5px solid paleturquoise;
+}
+
+figcaption{
+    font-style: italic;
+}
